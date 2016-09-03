@@ -11,7 +11,7 @@ var SelectWord = function(words, choosenword, random ) {
 			}
 }
 
-var SelectWord = new SelectWord ('perro')
-console.log(SelectWord.words)
+var cat = new SelectWord(cat)
+console.log(SelectWord)
 
 module.exports = SelectWord;
